@@ -43,7 +43,7 @@ while True:
     display()
     
     if check_win():
-        print("🎉 Congratulations! You solved the puzzle!")
+        print(" Congratulations! You solved the puzzle!")
         break
 
     print("\n1. Move Water")
